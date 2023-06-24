@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.1",
-    "clipboardy": "^2.3.0",
+    "clipboardy": "^3.0.0",
     "commander": "^8.0.0"
   }
 }
